@@ -1,0 +1,129 @@
+.container {
+   
+    margin: 180px;
+    
+}
+.btncontainer{
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 30px;
+    
+}
+button{
+    width: auto;
+    height: 45px;
+    color: white;
+    padding: 0px 20px 0px 20px;
+    border-color:bisque;
+    border-radius:10% ;
+    border-width: 1px;
+
+}
+.blank{
+ 
+}
+.pri{
+    background-color:rgb(66, 197, 233);
+}
+.sec{
+    background-color: grey;
+}
+.success{
+    background-color: #3c763d;
+}
+.info{
+    background-color: blue;
+}
+.warning{
+    background-color: orange;
+}
+.danger{
+    background-color: red;
+}
+.round{
+    background-color: rgb(66, 197, 233);
+    border-radius: 40px;
+}
+.search{
+    background-color:rgb(66, 197, 233) ;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.btncontainer2{
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 30px;
+}
+.btncontainer2 button{
+    border-width: 1px;
+}
+.add{
+    background-color:rgb(66, 197, 233) ;
+    color: white;
+}
+.dash{
+    border: dotted;
+    color:rgb(66, 197, 233);
+}
+.link{
+    color: rgb(66, 197, 233);
+    border: none;
+}
+.clickme{
+    color: white;
+    background-color:rgb(66, 197, 233) ;
+}
+.jelly{
+    color: white;
+    background-color:rgb(66, 197, 233) ;
+}
+.fillin{
+    color: rgb(66, 197, 233);
+    border-width: 1px;
+    border-color: rgb(66, 197, 233);
+}
+.pulse{
+    color: white;
+    background-color:rgb(66, 197, 233) ;
+}
+.open{
+    color: rgb(66, 197, 233);
+    border-width: 1px;
+    border-color: rgb(66, 197, 233);
+}
+.btncontainer3{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 30px;
+}
+.slide{
+    color: rgb(66, 197, 233);
+    border-width: 1px;
+    border-color: rgb(66, 197, 233);
+}
+.through{
+    color: rgb(66, 197, 233);
+    border-width: 1px;
+    border-color: rgb(66, 197, 233);
+}
+.flip{
+    color: white;
+    background-color:rgb(66, 197, 233) ;
+}
+.marquee{
+    background-color: rgb(66, 197, 233);
+    border-radius: 40px;
+}
+.cross{
+    color: rgb(66, 197, 233);
+    border-width: 1px;
+    border-color: rgb(66, 197, 233);
+}
+.line{
+    color: rgb(66, 197, 233);
+    border: none;
+}
